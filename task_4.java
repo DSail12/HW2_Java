@@ -1,3 +1,5 @@
+// К калькулятору из предыдущего дз добавить логирование.
+
 package hw2_java;
 
 import java.util.Scanner;
